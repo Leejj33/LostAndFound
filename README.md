@@ -1,6 +1,6 @@
 ## 📌 LostAndFound
 학부 졸업 프로젝트로 진행한 이미지 분류 모델 기반 분실물 공유 웹서비스 입니다. <br />
-[스토리보드][분실물보관소.pdf](https://github.com/Leejj33/LostAndFound/files/10120882/default.pdf)
+[스토리보드][분실물보관소.pdf](https://github.com/Leejj33/LostAndFound/files/10120882/default.pdf) <br>
 [시연영상] (https://youtu.be/sysJMjXpb8I) <br /> <br />
 
 ## 🛠 개발 환경
